@@ -1,3 +1,4 @@
+import About from "./components/About";
 import TopSection from "./components/TopSection";
 import { AppComponent } from "./StyledComponents/App.styled";
 
@@ -7,6 +8,7 @@ function App() {
     <AppComponent className="App">
 
         <TopSection />
+        <About />
 
     </AppComponent>
   );
