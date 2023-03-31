@@ -14,3 +14,9 @@ export const LandingSection = tw.div`
     bg-image
     //bg-festive
 `
+
+export const InfoSection = tw.div`
+    absolute
+    top[150px]
+    
+`

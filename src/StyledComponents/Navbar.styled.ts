@@ -6,15 +6,9 @@ export const NavbarComponent = tw.nav`
     h-20
     px-6
     py-4
-    border-b-2
-    border-gray-200
-    border-opacity-50
+    hover:backdrop-blur-sm
     items-center
 
-    > a{
-        lg:visible
-        text-red-600
-    }
 `;
 
 export const NavItems = tw.ul`

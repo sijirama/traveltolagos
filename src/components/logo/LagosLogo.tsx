@@ -9,9 +9,11 @@ function LagosLogo({}: Props) {
 
 const LogoContainer = tw.div`
     font-black
-    text-2xl
-    // text-white
     text-black
+    font-Abril
+    text-2xl 
+    sm:text-3xl 
+    lg:text-4xl
 `;
 
 export default LagosLogo;
