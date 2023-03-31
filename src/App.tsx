@@ -1,9 +1,14 @@
+import TopSection from "./components/TopSection";
+import { AppComponent } from "./StyledComponents/App.styled";
+
+
 function App() {
-  
   return (
-    <div className="App">
-      Hello
-    </div>
+    <AppComponent className="App">
+
+        <TopSection />
+
+    </AppComponent>
   );
 }
 
