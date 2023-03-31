@@ -2,6 +2,6 @@
 
 > Discontinued as i have learnt my lessons during the process of building this small web app
 
-- lessons i leant
+### lessons i learnt.
 
 1. i'm not a good frontend dev
