@@ -1,6 +1,4 @@
-
-
-import tw from "tailwind-styled-components"
+import tw from 'tailwind-styled-components';
 
 export const LandingSection = tw.div`
     w-full
@@ -13,10 +11,10 @@ export const LandingSection = tw.div`
     bg-center
     bg-image
     //bg-festive
-`
+`;
 
 export const InfoSection = tw.div`
     absolute
     top[150px]
     
-`
+`;
